@@ -1,0 +1,30 @@
+[
+{
+"id": 1,
+"turista": {
+"nome": "Mariana Silva",
+"nacionalidade": "Brasileira",
+"foto_url": "https://exemplo.com/fotos/mariana.jpg"
+},
+"destino": "Rio de Janeiro, Brasil",
+"avaliacao_estrelas": 5,
+"data_postagem": "2026-05-15",
+"titulo": "Experiência Inesquecível!",
+"comentario": "O passeio pelo Cristo Redentor e Pão de Açúcar superou todas as expectativas. Guia super atencioso e organização nota 10.",
+"tags": ["Aventura", "Família", "Cultura"]
+},
+{
+"id": 2,
+"turista": {
+"nome": "Carlos Mendoza",
+"nacionalidade": "Argentino",
+"foto_url": "https://exemplo.com/fotos/carlos.jpg"
+},
+"destino": "Lençóis Maranhenses, Brasil",
+"avaliacao_estrelas": 4.8,
+"data_postagem": "2026-05-28",
+"titulo": "Visual paradisíaco, mas vá preparado",
+"comentario": "As lagoas são a coisa mais linda que já vi. A caminhada na areia exige um pouco de preparo físico, mas vale cada segundo.",
+"tags": ["Natureza", "Ecoturismo"]
+}
+]
